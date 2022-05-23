@@ -21,6 +21,7 @@
 // 입출력 예 #2
 // 'p'의 개수 1개, 'y'의 개수 2개로 다르므로 false를 return 합니다.
 
+//내가 푼것
 function solution(s){
     var PP = 0
     var YY = 0
@@ -28,10 +29,22 @@ function solution(s){
     for(let i=0; i<s.length; i++) {
         if (s[i] === "p" || s[i] === "P") {
             PP ++
-        } if (s[i] === "y" || s[i] === "Y") {
+        } else if (s[i] === "y" || s[i] === "Y") {
             YY ++
         }
     }   
 
     return PP === YY ? true : false;
+}
+
+//reference
+function solution(s) {
+    s = s.toLowerCase()
+    const obj = {p:0 , y:0}
+
+    for(let i=0; i<s.length; i++) {
+        if(obj[s[i]] === undefined) obj[s[i]] = 0
+        obj[s[i]]++
+    }
+    return obj.p===obj.y
 }
