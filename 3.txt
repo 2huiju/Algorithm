@@ -1,0 +1,44 @@
+function solution(a) {
+  
+  const answer  = a.toString().split("").sort()
+  
+  return answer
+}
+
+solution(312)
+
+
+
+
+function dd(a,b,c) {
+    // 여기에 코드를 작성하세요
+  const answer = ""
+  
+  for(let i=0; i<dd.length; i++) {
+    if(a===0 && b===0 && c===0) {
+       break
+    } if(c*c=== a*a + b*b) {
+      return "right"
+    } else return "wrong"
+  }
+
+  return answer
+}
+
+
+
+function dd(a,b,c) {
+    // 여기에 코드를 작성하세요
+  const d = [a,b,c]
+  
+  const answer = d.sort((a,b) => a-b)
+  
+  
+  return answer
+  
+  
+}
+
+dd(6,8,10)
+dd(4,1,2)
+dd(0,0,1)
