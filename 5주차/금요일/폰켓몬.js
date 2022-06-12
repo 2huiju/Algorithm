@@ -93,7 +93,7 @@ function solution(nums) {
     const pocket = new Set(nums).size
     const limit = nums.length/2
     
-    // 내가 가져갈 수 있는 폰켓몬의 갯수보다 고유한 폰켓몬의 종류의 수가 같거나 작을 때
+    // 내가 가져갈 수 있는 폰켓몬의 갯수보다 고유한 폰켓몬의 종류의 수가 같거나 작을때
     if(limit >= pocket) {
         return pocket
     } else return limit
