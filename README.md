@@ -9,8 +9,8 @@
 ### week1 (22.05.16 ~ 22.05.20)
 
 | Author | Mon.               | Tue.               | Wed.               | Thu.               | Fri.               |
-| ------ | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ |
-| 2huiju | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
+| ------ | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ | 
+| 2huiju | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | 
 
 ### week2 (22.05.23 ~ 22.05.27)
 
