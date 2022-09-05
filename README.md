@@ -1,5 +1,5 @@
-<h1 align="center"> Programmers </h1>
-<h3 align="center"> 프로그래머스 코딩테스트 문제 풀이</h3>
+<h1 align="center"> Algorithm </h1>
+<h3 align="center"> 프로그래머스 && 백준 && HackerLank 코딩테스트 문제 풀이</h3>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/2huiju/programmers" target="_blank"> </a>
@@ -53,3 +53,11 @@
 | Author | Mon. | Tue. | Wed.               | Thu. | Fri. |
 | ------ | ---- | ---- | ------------------ | ---- | ---- |
 | 2huiju |      |      | :white_check_mark: |      |      |
+
+
+### week8 (22.09.05 ~ 22.09.09)
+
+| Author | Mon. | Tue. | Wed.               | Thu. | Fri. |
+| ------ | ---- | ---- | ------------------ | ---- | ---- |
+| 2huiju | :white_check_mark: |      | |      |      |
+
