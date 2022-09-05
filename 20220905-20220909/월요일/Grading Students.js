@@ -1,3 +1,4 @@
+// HackerRank
 function gradingStudents(grades) {
   // Write your code here
   let answer = [];

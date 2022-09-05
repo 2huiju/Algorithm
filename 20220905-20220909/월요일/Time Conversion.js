@@ -1,3 +1,4 @@
+// HackerRank
 function timeConversion(s) {
   // Write your code here
   let dd = s.slice(0, -2).split(":");
