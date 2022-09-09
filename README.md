@@ -56,6 +56,6 @@
 
 ### week8 (22.09.05 ~ 22.09.09)
 
-| Author | Mon.               | Tue.               | Wed. | Thu. | Fri. |
-| ------ | ------------------ | ------------------ | ---- | ---- | ---- |
-| 2huiju | :white_check_mark: | :white_check_mark: |      |      |      |
+| Author | Mon.               | Tue.               | Wed. | Thu.               | Fri.               |
+| ------ | ------------------ | ------------------ | ---- | ------------------ | ------------------ |
+| 2huiju | :white_check_mark: | :white_check_mark: |      | :white_check_mark: | :white_check_mark: |
