@@ -59,3 +59,9 @@
 | Author | Mon.               | Tue.               | Wed. | Thu.               | Fri.               |
 | ------ | ------------------ | ------------------ | ---- | ------------------ | ------------------ |
 | 2huiju | :white_check_mark: | :white_check_mark: |      | :white_check_mark: | :white_check_mark: |
+
+### week9 (22.09.12 ~ 22.09.16)
+
+| Author | Mon. | Tue.               | Wed. | Thu. | Fri. |
+| ------ | ---- | ------------------ | ---- | ---- | ---- |
+| 2huiju |      | :white_check_mark: |      |      |      |
